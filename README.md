@@ -1,4 +1,5 @@
 ---
+description: InoGives is currently under development.
 cover: .gitbook/assets/Optimise.png
 coverY: 0
 layout:
@@ -19,9 +20,7 @@ layout:
 
 # 🔜 Coming soon
 
-[**InoGives**](https://inogives.org/) is currently under development.
-
-Follow us on [**Telegram**](https://t.me/inogives\_org/) or [**subscribe**](https://t.me/inogives\_org/) to our newsletter to stay informed about developments, special offers, and community events.
+Follow [**InoGives**](https://inogives.org/) on [**Telegram**](https://t.me/inogives\_org/) or [**subscribe**](https://t.me/inogives\_org/) to the newsletter to stay informed about developments, community events and special offers.
 
 <div align="left">
 
