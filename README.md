@@ -19,10 +19,14 @@ layout:
 
 # 🔜 Coming soon
 
-We are currently under development.
+[**InoGives**](https://inogives.org/) is currently under development.
 
-Follow up for updates on [Telegram](https://t.me/inogives\_org/).
+Follow us on [**Telegram**](https://t.me/inogives\_org/) or [**subscribe**](https://t.me/inogives\_org/) to our newsletter to stay informed about developments, special offers, and community events.
 
+<div align="left">
 
+<figure><img src=".gitbook/assets/InoGives _ Opt-in form QR code.png" alt="" width="160"><figcaption><p>Sign up here</p></figcaption></figure>
 
-_Official website:_ [_https://inogives.org/_](https://inogives.org/)
+</div>
+
+_We value your privacy and will ensure your information is protected._
