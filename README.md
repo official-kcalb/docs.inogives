@@ -20,7 +20,7 @@ layout:
 
 # 🔜 Coming soon
 
-Follow [**InoGives**](https://inogives.org/) on [**Telegram**](https://t.me/inogives\_org/) or [**subscribe**](https://t.me/inogives\_org/) to the newsletter to stay informed about developments, community events and special offers.
+Follow [**InoGives**](https://inogives.org/) on [**Telegram**](https://t.me/inogives\_org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAFnBAPV8W\_TfpYAi-SM6IfeX1VH-3l8QIYBaxbsQKlYaSBDfe7YRIotflendc0hM2Iwt2cuDeouoakUkZUc0x3lLvQKVjADoQ4OOFbaVPd-DogOIfvLXC-A3PonYgKXctyig2gYWjLvSeHrfvO8LMOg4\_6TUiLH5kWa11sAG-nKUtUVzOpM-38o36KCK7IXdibGKSGL-zprn) to the newsletter to stay informed about developments, community events and special offers.
 
 <div align="left">
 
